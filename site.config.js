@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Timothy Yang`s blog',
+  name: 'laugh tale blog',
   domain: 'https://huixiong900.notion.site/Blog-f5292cdb068f4900b46ea280c101bccc',
   author: 'Timothy Yang',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'lauth tale blog',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
