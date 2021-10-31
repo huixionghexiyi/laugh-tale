@@ -8,11 +8,11 @@ module.exports = {
 
   // basic site info (required)
   name: 'laugh tale blog',
-  domain: 'https://www.notion.so/senpai-so/TransitiveBullsh-it-78fc5a4b88d74b0e824e29407e9f1ec1',
+  domain: 'https://huixiong900.notion.site/laugh-tale-blog-f5292cdb068f4900b46ea280c101bccc',
   author: 'Timothy Yang',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'LAUGH TALE BLOG',
   socialImageTitle: 'lauth tale blog',
   socialImageSubtitle: 'Hello World! 👋',
 
